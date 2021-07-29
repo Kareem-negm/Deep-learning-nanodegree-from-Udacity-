@@ -21,6 +21,7 @@ The Expert track - Deep Learning Nanodegree consisted of 6 main topics:
 
 6- Deploying a Model through AWS SageMaker
 
+![alt text](https://github.com/Kareem-negm/Deep-learning-nanodegree-from-Udacity-/blob/main/Screenshot%20(53).png)
 
 - Certification Link:
 
